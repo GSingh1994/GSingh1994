@@ -17,7 +17,8 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
     width="70px"
   />
-
+<br/>
+<br/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GSingh1994&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
